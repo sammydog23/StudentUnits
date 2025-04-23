@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #f9f9f9;
+    }
+    
+    header {
+    background-color: #00529B;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    }
+    
+    header h1 {
+    margin: 0;
+    font-size: 2rem;
+    }
+    
+    header p {
+    font-size: 1.2rem;
+    }
+    
+    section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: auto;
+    }
+    
+    h2 {
+    color: #00529B;
+    margin-bottom: 1rem;
+    }
+    
+    table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    }
+    
+    table th,
+    table td {
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    text-align: left;
+    }
+    
+    .benefits ul {
+    list-style-type: disc;
+    padding-left: 1.2rem;
+    }
+    
+    .benefits li {
+    margin-bottom: 0.8rem;
+    }
+    
+    footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    }
